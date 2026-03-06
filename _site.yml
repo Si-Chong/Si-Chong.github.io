@@ -6,7 +6,7 @@ navbar:
   title: <p style="color:darkblue;font-weight:bold;font-size:30px">Macroecology Group</p>
   right:
     - text: "Home"
-      href: Home.html
+      href: index.html
 
       
 output:
@@ -16,6 +16,7 @@ output:
     include:
 #      in_header: header.html
       after_body: footer.html
+
 
 
 
