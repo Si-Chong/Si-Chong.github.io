@@ -1,0 +1,22 @@
+name: "Si-Chong Chen"
+title: "Si-Chong Chen"
+description: "Homepage for Si-Chong Chen's Macroecology Group."
+output_dir: "."
+navbar:
+  title: <p style="color:darkblue;font-weight:bold;font-size:30px">Macroecology Group</p>
+  right:
+    - text: "Home"
+      href: Home.html
+
+      
+output:
+  html_document:
+    theme: readable
+    highlight: textmate
+    include:
+#      in_header: header.html
+      after_body: footer.html
+
+
+
+
