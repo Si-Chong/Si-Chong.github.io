@@ -1,0 +1,43 @@
+---
+title: "&nbsp;"
+output: 
+    html_document:
+        include:
+            #before_body: header.html
+            after_body: footer.html
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## **Opportunities**<br>
+<hr>
+
+<div class="row">
+
+<div class="col-md-4" style="text-align:center;">
+
+<img src="Portrait/Default.png" style="width:80%; max-width:220px;">
+
+</div>
+
+<div class="col-md-8">
+
+### Get in touch
+
+I am about to join [the University of Hong Kong](https://www.hku.hk/) in the coming summer of 2026.<br>
+
+I am recruiting:<br>
+
+- Postdoctoral fellows  
+
+- PhD and MPhil students  
+
+- Research assistants  
+
+- Undergraduate interns  
+
+If you are interested in joining the lab, let's talk about your research interests, skills and plans.<br>
+
+Prospective students and postdocs are encouraged to read [our publications](publications.html) and [contact me](mailto:chensichong0528@gmail.com) before applying officially.
