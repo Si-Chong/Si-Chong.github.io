@@ -23,15 +23,15 @@ body {
 
 <br>
 
-中国科学院武汉植物园  研究员 (海外高层次人才引进)、博士生导师<br>
+中国科学院武汉植物园&nbsp;&nbsp;研究员 (海外高层次人才引进)、博士生导师<br>
 
-英国皇家植物园邱园  荣誉研究员<br>
+英国皇家植物园邱园&nbsp;&nbsp;荣誉研究员<br>
 
-澳大利亚新南威尔士大学  兼职副教授<br>
+澳大利亚新南威尔士大学&nbsp;&nbsp;兼职副教授<br>
 
-植物多样性与特色经济作物全国重点实验室  副主任<br>
+植物多样性与特色经济作物全国重点实验室&nbsp;&nbsp;副主任<br>
 
-国际种子科学学会  候任主席
+国际种子科学学会&nbsp;&nbsp;候任主席
 
 <br>
 
@@ -89,17 +89,16 @@ style="height:420px; width:auto; border-radius:10px; box-shadow:0 4px 12px rgba(
 
 #### 学术任职
 
-* 2025 -- 至今: 国际种子科学学会  候任主席<br>
-* 2024 -- 至今: 中国生态学学会种子生态学专业委员会  副主任<br>
-* 2023 -- 至今: 中国植物学会植物生态学专业委员会  委员<br>
-* 2023 -- 至今: 国际种子科学学会  中国区域代表<br>
-* 2026 -- 至今: 《Ecography》  编委<br>
-* 2025 -- 至今: 《Seed Science Research》  副主编<br>
-* 2023 -- 至今: 《Methods in Ecology and Evolution》  编委<br>
-* 2020 -- 至今: 《Oikos》  编委<br>
-* 2022 -- 至今: 《Integrative Zoology》  青年编委<br>
-* 2020 -- 2022: 《Frontiers in Plant Science》  客座编委<br>
-* 2022 -- 至今: 《植物科学学报》  编委<br>
-* 2024 -- 至今: 《生物多样性》  编委<br>
-* 2024 -- 至今: 《植物生态学报》  编委<br>
-
+* 2025 -- 至今: 国际种子科学学会&nbsp;&nbsp;候任主席<br>
+* 2024 -- 至今: 中国生态学学会种子生态学专业委员会&nbsp;&nbsp;副主任<br>
+* 2023 -- 至今: 中国植物学会植物生态学专业委员会&nbsp;&nbsp;委员<br>
+* 2023 -- 至今: 国际种子科学学会&nbsp;&nbsp;中国区域代表<br>
+* 2026 -- 至今: 《Ecography》&nbsp;&nbsp;编委<br>
+* 2025 -- 至今: 《Seed Science Research》&nbsp;&nbsp;副主编<br>
+* 2023 -- 至今: 《Methods in Ecology and Evolution》&nbsp;&nbsp;编委<br>
+* 2022 -- 至今: 《Integrative Zoology》&nbsp;&nbsp;青年编委<br>
+* 2020 -- 至今: 《Oikos》&nbsp;&nbsp;编委<br>
+* 2022 -- 至今: 《植物科学学报》&nbsp;&nbsp;编委<br>
+* 2024 -- 至今: 《生物多样性》&nbsp;&nbsp;编委<br>
+* 2024 -- 至今: 《植物生态学报》&nbsp;&nbsp;编委<br>
+* 2020 -- 2022: 《Frontiers in Plant Science》&nbsp;&nbsp;客座编委<br>

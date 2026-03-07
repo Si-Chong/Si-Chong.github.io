@@ -46,9 +46,9 @@ Seed predation and stoichiometry
 <div class="row">
 
 <div class="col-md-4 text-center" style="margin-bottom:40px">
-<img src="Portrait/Vincent.jpg" width="220"><br><br>
+<img src="Portrait/Vincent Kipngetich.jpg" width="220"><br><br>
 
-**Kipngetich Vincent (成伟)**  
+**Vincent Kipngetich (成伟)**  
 Master student (2023– )  
 Wind-mediated seed dispersal
 </div>
@@ -96,7 +96,7 @@ Wind-mediated seed dispersal
 <div class="row">
 
 <div class="col-md-4 text-center" style="margin-bottom:40px">
-<img src="Portrait/Fanyu Fu.jpg" width="220"><br><br>
+<img src="Portrait/Fan-Yu Fu.jpg" width="220"><br><br>
 
 **Fan-Yu Fu (付帆宇)**  
 Master student (2021–2024)  
@@ -104,7 +104,7 @@ Seed defences
 </div>
 
 <div class="col-md-4 text-center" style="margin-bottom:40px">
-<img src="Portrait/Zhian Hu.jpg" width="220"><br><br>
+<img src="Portrait/Zhi-An Hu.jpg" width="220"><br><br>
 
 **Zhi-An Hu (胡志安)**  
 Master student (2021–2024)  
@@ -112,7 +112,7 @@ Plant phenology
 </div>
 
 <div class="col-md-4 text-center" style="margin-bottom:40px">
-<img src="Portrait/Qingqing Xu.jpg" width="220"><br><br>
+<img src="Portrait/Qing-Qing Xu.jpg" width="220"><br><br>
 
 **Qing-Qing Xu (徐庆庆)**  
 Master student (2022–2025)  

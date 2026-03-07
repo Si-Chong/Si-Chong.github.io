@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <div style="text-align:center; margin-top:30px; margin-bottom:30px;">
 
-<img src="Pictures/Publication.jpg" style="width:500px; border-radius:10px;">
+<img src="Picture/Keywords.jpg" style="width:500px; border-radius:10px;">
 
 </div>
 

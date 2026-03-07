@@ -16,6 +16,6 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <div style="text-align:center; margin-top:10px; margin-bottom:25px;">
 
-<img src="Pictures/Fig.jpg" style="max-width:100%; height:auto;">
+<img src="Picture/CSTD.jpg" style="max-width:100%; height:auto;">
 
 </div>
