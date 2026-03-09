@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = TRUE)
 <div class="col-md-4 text-center" style="margin-bottom:40px">
 <img src="Portrait/Lu Zong.jpg" width="220"><br><br>
 
-**Lu Zong (宗璐)(https://www.researchgate.net/profile/Lu-Zong-2)**  
+**[Lu Zong (宗璐)](https://www.researchgate.net/profile/Lu-Zong-2)**  
 Postdoc (2023– )  
 Seed dispersal
 </div>
