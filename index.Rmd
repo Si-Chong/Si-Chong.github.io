@@ -1,0 +1,117 @@
+---
+title: "&nbsp;"
+output: html_document
+---
+
+<style>
+.main-container {
+  max-width: 1000px;
+}
+
+body {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+</style>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<div class = "row">
+<div class = "col-md-6">
+
+## **Si-Chong Chen (陈思翀)**
+Email: [chensichong0528 [at] gmail.com](mailto:chensichong0528@gmail.com)
+
+<br>
+
+**Research Professor & PI**  
+[Wuhan Botanical Garden](http://www.wbg.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/), China  
+
+**Honorary Research Associate**  
+[Royal Botanic Gardens Kew](http://www.kew.org/), UK  
+
+**Adjunct Associate Professor**  
+[University of New South Wales](https://www.unsw.edu.au/), Australia  
+
+**Deputy Director**  
+[State Key Laboratory of Plant Diversity and Specialty Crops](https://pdsc.ibcas.ac.cn), China  
+
+**President-Elect**  
+[International Society for Seed Science](https://seedscisoc.org/)
+
+<br>
+
+</div>
+
+<div class="col-md-6" style="text-align:center;">
+
+<br>
+
+<img src="Portrait/Si-Chong Chen.jpg"
+style="height:420px; width:auto; border-radius:10px; box-shadow:0 4px 12px rgba(0,0,0,0.15);">
+
+</div>
+
+</div>
+
+<hr>
+
+#### Research Interests
+
+I work on the macroecological patterns in seed dispersal, seed predation, seed storage behaviours and relevant disciplines. My research aims to contribute to our understanding of seed ecology in three key ways:<br>
+
+* by narrowing the gaps between data, intuitive ideas and theories;
+
+* by enhancing the integration of replicated studies at a macro-ecological scale;
+
+* by extending understanding from a local scale and a small number of species to a global scale spanning many biomes and taxonomic groups.
+
+<hr>
+
+#### Work Experience
+
+* 2021.12 -- 2026.05: Research Professor & PI<br>
+[Wuhan Botanical Garden](http://www.wbg.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/), China  
+
+* 2018.12 -- 2023.03: Future Leader Fellow<br>
+[Royal Botanic Gardens Kew](http://www.kew.org/), UK  
+                  
+* 2016.08 -- 2018.09: Postdoctoral Fellow<br>
+[Ben-Gurion University of the Negev](https://www.bgu.ac.il/en?bm-verify=AAQAAAAM_____4iKgJGFL0Q4iIyKuTtEBY1MvwKSAbkZU9CVgmSoD1RLQSvRBPDNg2FCQgvWQInktoApBninzziLqY0btFEYIKDt29WpgFLJf6zDJR-IWGI7GDKYmg4Nq5b8WCUOPYP-8xeZtfttkDnnSLRhso8o-NGQQA7KLg6hFzQ18sjGPSRHvbKtsj5OT53uFtptCUOPJ62IH1Bd14D221lasz_aI6ZeH7C8P8dPwX9Hu2ptcK12Ia6D4BoG_lE4tBp2uqlhrzmKPwGX), Israel
+
+<hr>
+
+#### Education Experience
+
+* 2012.08 -- 2016.06: PhD in Ecology (Supervisor: Prof. Angela T. Moles)<br>
+[University of New South Wales](https://www.unsw.edu.au/), Australia<br>
+Thesis: Macro-ecological patterns in seed removal by animals  
+
+* 2009.09 -- 2012.07: MSc in Ecology (Supervisor: Prof. Charles H. Cannon)<br>
+[Xishuangbanna Tropical Botanical Garden](https://www.xtbg.ac.cn/), [Chinese Academy of Sciences](https://www.cas.cn/), China<br>
+Thesis: The variation of genome size within and among the Fagaceae  
+
+* 2005.09 -- 2009.06: BSc in Science (Supervisor: Prof. Wen-Xin Li)<br>
+[Wuhan University](https://www.whu.edu.cn/), China<br>
+Thesis: Inhibitive effect of human foamy virus induced interleukin-24 in cancer cells  
+
+* 2008.10 -- 2009.02: Visiting Research Student (Supervisor: Prof. Yoshikatsu Kanai)<br>
+[Osaka University](https://www.osaka-u.ac.jp/en), Japan<br>
+Thesis: Examination of protein-protein interaction in human kidney  
+
+<hr>
+
+#### Editorial Board
+
+* 2026 -- present: [*Ecography*](https://nsojournals.onlinelibrary.wiley.com/journal/16000587), Subject Editor<br>
+* 2025 -- present: [*Seed Science Research*](https://www.cambridge.org/core/journals/seed-science-research), Associate Editor<br>
+* 2023 -- present: [*Methods in Ecology and Evolution*](https://besjournals.onlinelibrary.wiley.com/journal/2041210x), Associate Editor<br>
+* 2022 -- present: [*Integrative Zoology*](https://onlinelibrary.wiley.com/journal/17494877), Youth Editor<br>
+* 2020 -- present: [*Oikos*](https://nsojournals.onlinelibrary.wiley.com/journal/16000706), Subject Editor<br>
+* 2024 -- present: [*Biodiversity Science 生物多样性*](https://www.biodiversity-science.net/), Editor<br>
+* 2024 -- present: [*Chinese Journal of Plant Ecology 植物生态学报*](https://www.plant-ecology.com/), Editor<br>
+* 2022 -- present: [*Plant Science Journal 植物科学学报*](https://plantscience.cn/index.htm), Editor<br>
+* 2020 -- 2022: *Frontiers in Plant Science*, Special Issue "[Functional Seed Ecology](https://fro.ntiers.in/seed-ecology)", Guest Editor<br>
+
