@@ -18,7 +18,7 @@ knitr::opts_chunk$set(echo = TRUE)
 <div class="col-md-4 text-center" style="margin-bottom:40px">
 <img src="Portrait/Lu Zong.jpg" width="220"><br><br>
 
-**Lu Zong (宗璐)**  
+**Lu Zong (宗璐)(https://www.researchgate.net/profile/Lu-Zong-2)**  
 Postdoc (2023– )  
 Seed dispersal
 </div>
@@ -123,13 +123,15 @@ Pollution impacts on plant regeneration
 
 <hr>
 
-**Xi-Ning Zhao (赵希宁)**: Undergraduate intern at Central China Normal University (2025)<br>
+**La-Mei Wu (伍腊梅)**: PhD student at Xishuangbanna Tropical Botanical Garden (2015-2020)<br>
 
-**Yue Lu (卢玥)**: Undergraduate intern at Imperial College London (2024)<br>
+**Yan Xiao (肖燕)**: PhD student at Xishuangbanna Tropical Botanical Garden (2017-2023)<br>
 
-**Jia-Ze Li (李佳择)**: Undergraduate intern at Henan Normal University (2023)<br>
+**Fahmida Nitu**: MSc student at Imperial College London (2020-2021)<br>
 
-**Xue-Lin Chen (陈雪琳)**: Undergraduate intern at Nanchang University (2022-2023)<br>
+**Phoebe Blair**: Undergraduate intern at the University of Cambridge (2019)<br>
+
+**Xue-Lin Chen (陈雪琳)**: Undergraduate intern at Nanchang University (2022-2024)<br>
 
 **Xu-Ze Dong (董绪泽)**: Undergraduate intern at Nanchang University (2022-2023)<br>
 
@@ -137,10 +139,8 @@ Pollution impacts on plant regeneration
 
 **Yi-Hao Yuan (袁艺豪)**: Undergraduate intern at Southwest University (2022-2023)<br>
 
-**Phoebe Blair**: Undergraduate intern at the University of Cambridge (2019)<br>
+**Jia-Ze Li (李佳择)**: Undergraduate intern at Henan Normal University (2023)<br>
 
-**Fahmida Nitu**: MSc student at Imperial College London (2020-2021)<br>
+**Yue Lu (卢玥)**: Undergraduate intern at Imperial College London (2024)<br>
 
-**La-Mei Wu (伍腊梅)**: PhD student at Xishuangbanna Tropical Botanical Garden (2015-2020)<br>
-
-**Yan Xiao (肖燕)**: PhD student at Xishuangbanna Tropical Botanical Garden (2017-2023)<br>
+**Xi-Ning Zhao (赵希宁)**: Undergraduate intern at Central China Normal University (2025)<br>
