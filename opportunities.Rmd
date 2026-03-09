@@ -24,7 +24,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <div class="col-md-8">
 
-### Get in touch
+## Get in touch
 
 I am about to join [the University of Hong Kong](https://www.hku.hk/) in the coming summer of 2026.<br>
 
@@ -41,3 +41,8 @@ I am recruiting:<br>
 If you are interested in joining the lab, let's talk about your research interests, skills and plans.<br>
 
 Prospective students and postdocs are encouraged to read [our publications](publications.html) and [contact me](mailto:chensichong0528@gmail.com) before applying officially.
+
+<hr>
+
+## Who we are looking for
+We welcome applicants with deverse backgrounds including ecology, statistics, computer science and related disciplines, who are motivated to pursue fundamental questions in ecology. Applicants with backgrounds in species interactions, entomology, microbiome, or macroevolution are particularly encouraged to apply. Experience with field experiment design, artificial intelligence, large-scale data mining, database construction and integration are highly valued. Applicants are encouraged to develop their own research ideas aligned with the broader themes of the group.
