@@ -8,13 +8,13 @@ title: '&nbsp;'
 }
 
 body {
-  padding-left: 15px;
-  padding-right: 15px;
+  padding-left: 14px;
+  padding-right: 14px;
 }
 </style>
 
 <div class = "row">
-<div class = "col-md-8">
+<div class = "col-md-6">
 
 <br>
 
