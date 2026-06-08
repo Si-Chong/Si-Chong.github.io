@@ -115,6 +115,7 @@ Plant phenology
 **Qing-Qing Xu (徐庆庆)**  
 Master student (2022–2025)  
 Pollution impacts on plant regeneration
+</div>
 
 <div class="col-md-4 text-center" style="margin-bottom:40px">
 <img src="Portrait/Vincent Kipngetich.jpg" width="220"><br><br>

@@ -26,9 +26,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Get in touch
 
-I am about to join [the University of Hong Kong](https://www.hku.hk/) in the coming summer of 2026.<br>
-
-I am recruiting:<br>
+I am recruiting at [The University of Hong Kong](https://www.hku.hk/):<br>
 
 - Postdoctoral fellows  
 
@@ -54,3 +52,13 @@ Prospective students and postdocs are encouraged to read [our publications](publ
 - Applicants with backgrounds in species interactions, entomology, microbiome, or macroevolution are particularly encouraged to apply. Experience with field experiment design, artificial intelligence, large-scale data mining, database construction and integration are highly valued.
 
 - Applicants are encouraged to develop their own research ideas aligned with the broader themes of the group.
+
+<hr>
+
+## Scholarships at HKU
+
+- [PhD/MPhil admission](https://gradsch.hku.hk/prospective_students/application/how_to_apply)
+
+- [HKU Presidential PhD Scholar Programme](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hku_presidential_phd_scholar_programme)
+
+- [Hong Kong PhD Fellowship Scheme](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hong_kong_phd_fellowship_scheme)
