@@ -23,7 +23,7 @@ body {
 
 <br>
 
-中国科学院武汉植物园&nbsp;&nbsp;研究员 (海外高层次人才引进)、博士生导师<br>
+香港大学&nbsp;&nbsp;副教授、博士生导师<br>
 
 英国皇家植物园邱园&nbsp;&nbsp;荣誉研究员<br>
 
@@ -55,6 +55,9 @@ style="height:420px; width:auto; border-radius:10px; box-shadow:0 4px 12px rgba(
 <hr>
 
 #### 工作经历
+
+* 2026.06 -- 至今: 副教授<br>
+香港大学  
 
 * 2021.12 -- 2026.05: 研究员、组长<br>
 中国科学院武汉植物园  
