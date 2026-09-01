@@ -11,8 +11,10 @@ knitr::opts_chunk$set(echo = TRUE)
 <br>
 
 ### See [here](opportunities.html) for current opportunities to join the team.
-<br>
 <hr>
+
+## **Current**
+<br>
 
 <div class = "row">
 
@@ -101,7 +103,7 @@ Urban ecology and environment education
 <div class="col-md-4 text-center" style="margin-bottom:40px">
 <img src="Portrait/Lan Wu.jpg" width="220"><br><br>
 
-**[Lan Wu (吴澜)]**  
+**Lan Wu (吴澜)**  
 Master student (2024–2026)  
 Seed physical defences
 </div>
@@ -109,7 +111,7 @@ Seed physical defences
 <div class="col-md-4 text-center" style="margin-bottom:40px">
 <img src="Portrait/Tian-Hao Xia.jpg" width="220"><br><br>
 
-**[Tian-Hao Xia (夏天浩)]**  
+**Tian-Hao Xia (夏天浩)**  
 Master student (2024–2026)  
 Seed stoichiometry
 </div>
@@ -145,7 +147,6 @@ Plant phenology
 
 </div>
 
-<hr>
 
 **Run-Lan Xie (谢润兰)**: Undergraduate intern at Zhejiang University (2026)<br>
 
