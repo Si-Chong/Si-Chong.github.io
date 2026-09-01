@@ -7,14 +7,10 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## **Team**<br>
-<br>
-
 ### See [here](opportunities.html) for current opportunities to join the team.
 <hr>
 
-## **Current**
-<br>
+## **Current**<br>
 
 <div class = "row">
 
@@ -45,8 +41,7 @@ Technical officer (2026– )
 <hr>
 
 
-## **Alumni**
-<br>
+## **Alumni**<br>
 
 <div class="row">
 
