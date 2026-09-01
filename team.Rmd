@@ -12,16 +12,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### See [here](opportunities.html) for current opportunities to join the team.
 <br>
+<hr>
 
 <div class = "row">
-
-<div class="col-md-4 text-center" style="margin-bottom:40px">
-<img src="Portrait/Lu Zong.jpg" width="220"><br><br>
-
-**[Lu Zong (宗璐)](https://www.researchgate.net/profile/Lu-Zong-2)**  
-Postdoc (2023– )  
-Seed dispersal
-</div>
 
 <div class="col-md-4 text-center" style="margin-bottom:40px">
 <img src="Portrait/Hao-Yu Wang.jpg" width="220"><br><br>
@@ -32,60 +25,106 @@ Seed predation and stoichiometry
 </div>
 
 <div class="col-md-4 text-center" style="margin-bottom:40px">
-<img src="Portrait/Lin Xie.jpg" width="220"><br><br>
-
-**[Lin Xie (解琳)](https://orcid.org/0009-0004-3662-0778)**  
-Master student (2024– )  
-Urban ecology and environment education
-</div>
-
-</div>
-
-
-<div class="row">
-
-<div class="col-md-4 text-center" style="margin-bottom:40px">
-<img src="Portrait/Long Wang.jpg" width="220"><br><br>
-
-**Long Wang (王龙)**  
-Master student (2025– )  
-Wind-mediated seed dispersal
-</div>
-
-<div class="col-md-4 text-center" style="margin-bottom:40px">
-<img src="Portrait/Run-Lan Xie.jpg" width="220"><br><br>
-
-**Run-Lan Xie (谢润兰)**  
-Undergraduate intern (2026– )  
-TBC
-</div>
-
-<div class="col-md-4 text-center" style="margin-bottom:40px">
 <img src="Portrait/Ru-Yin Ye.jpg" width="220"><br><br>
 
 **Ru-Yin Ye (叶如茵)**  
 Undergraduate intern (2026– )  
-TBC
+Seed traits
+</div>
+
+<div class="col-md-4 text-center" style="margin-bottom:40px">
+<img src="Portrait/Kelly Lau.jpg" width="220"><br><br>
+
+**Kelly Lau (劉麗葉)**  
+Technical officer (2026– )  
 </div>
 
 </div>
-
 <hr>
 
 
-
 ## **Alumni**
-
 <br>
+
+<div class="row">
+
+<div class="col-md-4 text-center" style="margin-bottom:40px">
+<img src="Portrait/Lu Zong.jpg" width="220"><br><br>
+
+**[Lu Zong (宗璐)](https://www.researchgate.net/profile/Lu-Zong-2)**  
+Postdoc (2023–2026)  
+Wind-mediated seed dispersal
+</div>
+
+</div>
+
 
 <div class="row">
 
 <div class="col-md-4 text-center" style="margin-bottom:40px">
 <img src="Portrait/Xiao Huang.jpg" width="220"><br><br>
 
-**Xiao Huang (黄猇)**  
+**[Xiao Huang (黄猇)](https://www.researchgate.net/profile/Xiao-Huang-huangxiao)**  
 PhD student (2022–2026)  
 Frugivory and seed dispersal
+</div>
+
+<div class="col-md-4 text-center" style="margin-bottom:40px">
+<img src="Portrait/Vincent Kipngetich.jpg" width="220"><br><br>
+
+**Vincent Kipngetich (成伟)**  
+Master student (2023–2026)  
+Wind-mediated seed dispersal
+</div>
+
+<div class="col-md-4 text-center" style="margin-bottom:40px">
+<img src="Portrait/Long Wang.jpg" width="220"><br><br>
+
+**Long Wang (王龙)**  
+Master student (2025–2026)  
+Wind-mediated seed dispersal
+</div>
+
+</div>
+
+
+<div class="row">
+
+<div class="col-md-4 text-center" style="margin-bottom:40px">
+<img src="Portrait/Lin Xie.jpg" width="220"><br><br>
+
+**[Lin Xie (解琳)](https://orcid.org/0009-0004-3662-0778)**  
+Master student (2024–2026)  
+Urban ecology and environment education
+</div>
+
+<div class="col-md-4 text-center" style="margin-bottom:40px">
+<img src="Portrait/Lan Wu.jpg" width="220"><br><br>
+
+**[Lan Wu (吴澜)]**  
+Master student (2024–2026)  
+Seed physical defences
+</div>
+
+<div class="col-md-4 text-center" style="margin-bottom:40px">
+<img src="Portrait/Tian-Hao Xia.jpg" width="220"><br><br>
+
+**[Tian-Hao Xia (夏天浩)]**  
+Master student (2024–2026)  
+Seed stoichiometry
+</div>
+
+</div>
+
+
+<div class="row">
+
+<div class="col-md-4 text-center" style="margin-bottom:40px">
+<img src="Portrait/Qing-Qing Xu.jpg" width="220"><br><br>
+
+**Qing-Qing Xu (徐庆庆)**  
+Master student (2022–2025)  
+Pollution impacts on plant regeneration
 </div>
 
 <div class="col-md-4 text-center" style="margin-bottom:40px">
@@ -106,36 +145,15 @@ Plant phenology
 
 </div>
 
-
-<div class="row">
-
-<div class="col-md-4 text-center" style="margin-bottom:40px">
-<img src="Portrait/Qing-Qing Xu.jpg" width="220"><br><br>
-
-**Qing-Qing Xu (徐庆庆)**  
-Master student (2022–2025)  
-Pollution impacts on plant regeneration
-</div>
-
-<div class="col-md-4 text-center" style="margin-bottom:40px">
-<img src="Portrait/Vincent Kipngetich.jpg" width="220"><br><br>
-
-**Vincent Kipngetich (成伟)**  
-Master student (2023–2026)  
-Wind-mediated seed dispersal
-</div>
-
-</div>
-
 <hr>
 
-**La-Mei Wu (伍腊梅)**: PhD student at Xishuangbanna Tropical Botanical Garden (2015-2020)<br>
+**Run-Lan Xie (谢润兰)**: Undergraduate intern at Zhejiang University (2026)<br>
 
-**Yan Xiao (肖燕)**: PhD student at Xishuangbanna Tropical Botanical Garden (2017-2023)<br>
+**Xi-Ning Zhao (赵希宁)**: Undergraduate intern at Central China Normal University (2025)<br>
 
-**Fahmida Nitu**: MSc student at Imperial College London (2020-2021)<br>
+**Yue Lu (卢玥)**: Undergraduate intern at Imperial College London (2024)<br>
 
-**Phoebe Blair**: Undergraduate intern at the University of Cambridge (2019)<br>
+**Jia-Ze Li (李佳择)**: Undergraduate intern at Henan Normal University (2023)<br>
 
 **Xue-Lin Chen (陈雪琳)**: Undergraduate intern at Nanchang University (2022-2024)<br>
 
@@ -145,8 +163,10 @@ Wind-mediated seed dispersal
 
 **Yi-Hao Yuan (袁艺豪)**: Undergraduate intern at Southwest University (2022-2023)<br>
 
-**Jia-Ze Li (李佳择)**: Undergraduate intern at Henan Normal University (2023)<br>
+**Phoebe Blair**: Undergraduate intern at the University of Cambridge (2019)<br>
 
-**Yue Lu (卢玥)**: Undergraduate intern at Imperial College London (2024)<br>
+**Fahmida Nitu**: MSc student at Imperial College London (2020-2021)<br>
 
-**Xi-Ning Zhao (赵希宁)**: Undergraduate intern at Central China Normal University (2025)<br>
+**Yan Xiao (肖燕)**: PhD student at Xishuangbanna Tropical Botanical Garden (2017-2023)<br>
+
+**La-Mei Wu (伍腊梅)**: PhD student at Xishuangbanna Tropical Botanical Garden (2015-2020)<br>

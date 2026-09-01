@@ -21,12 +21,44 @@ See also: [ResearchGate](https://www.researchgate.net/profile/Si-Chong-Chen) | [
 
 <br>
 
-`*`: Corresponding author; `#`: Co-first author.
+`*` Corresponding author; `#` Co-first author; Team member in **bold**
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
 <ul style="list-style-type: disc;">
+
+<div class = "row">
+<div class = "col-md-10">
+<li> **Chen S-C**\*, Chen G, Chomicki G & Suetsugu K. (2026) Invertebrate endozoochory: an overlooked pathway of seed dispersal. *Trends in Plant Science* (In press). [https://doi.org/10.1016/j.tplants.2026.06.004](https://doi.org/10.1016/j.tplants.2026.06.004) (Media: [文匯報](https://www.wenweipo.com/a/202608/03/AP6a6faafce4b0c1e500234a68.html); [星島頭條](https://www.stheadline.com/edu-insights/3600226); [Earch.com](https://www.earth.com/news/tiny-animals-beneath-our-feet-are-quietly-rebuilding-forests);
+[Phys.org](https://phys.org/news/2026-08-forest-floors-reveal-overlooked-seed.html);
+[THE TIMES OF INDIA](https://timesofindia.indiatimes.com/science/scientists-found-slugs-beetles-and-crabs-spread-seeds-for-186-plant-species-one-crab-can-swallow-more-than-1000-in-a-night/articleshow/132858794.cms))
+</div>
+<div class = "col-md-2">
+<div data-doi="10.1016/j.tplants.2026.06.004" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.tplants.2026.06.004" data-style="small_rectangle"></span>
+</div>
+</div>
+
+<div class = "row">
+<div class = "col-md-10">
+<li> **Xu Q-Q** & **Chen S-C**\*. (2026). Global meta-analysis reveals that pollution strongly inhibits seed-based regeneration of wild plants. *Global Ecology and Biogeography* 35(6): e70264. [https://doi.org/10.1111/geb.70264](https://doi.org/10.1111/geb.70264) 
+</div>
+<div class = "col-md-2">
+<div data-doi="10.1111/geb.70264" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1111/geb.70264" data-style="small_rectangle"></span>
+</div>
+</div>
+
+<div class = "row">
+<div class = "col-md-10">
+<li> Oliveira DN, Ordóñez-Parra CA, **Chen S-C**, et al. & Silveira FAO\*. (2026). Tropical Seed Trait Database: advancing seed functional ecology in the world’s most biodiverse region. *New Phytologist* 251(3): 945–958. [https://doi.org/10.1111/nph.71268](https://doi.org/10.1111/nph.71268) 
+</div>
+<div class = "col-md-2">
+<div data-doi="10.1111/nph.71268" data-hide-no-mentions="true" class="altmetric-embed"></div>
+<span class="__dimensions_badge_embed__" data-doi="10.1111/nph.71268" data-style="small_rectangle"></span>
+</div>
+</div>
 
 <div class = "row">
 <div class = "col-md-10">
@@ -60,7 +92,7 @@ See also: [ResearchGate](https://www.researchgate.net/profile/Si-Chong-Chen) | [
 
 <div class = "row">
 <div class = "col-md-10">
-<li> Fu Z#, Zhan Q#, Lenoir J#, Wang S, Qian H, Yang J, Sun W, Mbuni YM, Ngumbau VM, Hu G, Yan X, Wang Q-F, **Chen S-C**\* & Zhou Y\*. (2025) Climate change drives plant diversity attrition at the summit of Mount Kenya. *New Phytologist*. (In press) [https://doi.org/10.1111/nph.20344](https://doi.org/10.1111/nph.20344) 
+<li> Fu Z#, Zhan Q#, Lenoir J#, Wang S, Qian H, Yang J, Sun W, Mbuni YM, Ngumbau VM, Hu G, Yan X, Wang Q-F, **Chen S-C**\* & Zhou Y\*. (2025) Climate change drives plant diversity attrition at the summit of Mount Kenya. *New Phytologist* 251(2): 610–616. [https://doi.org/10.1111/nph.20344](https://doi.org/10.1111/nph.20344) 
 </div>
 <div class = "col-md-2">
 <div data-doi="10.1111/nph.20344" data-hide-no-mentions="true" class="altmetric-embed"></div>
@@ -70,7 +102,7 @@ See also: [ResearchGate](https://www.researchgate.net/profile/Si-Chong-Chen) | [
 
 <div class = "row">
 <div class = "col-md-10">
-<li> **Wang H-Y**, **Chen X**, **Chen S-C**\*. (2025) Chinese Seed Trait Database: A curated resource for seed traits in the Chinese flora. *New Phytologist* 248(1): 11–16 ([**Cover Story**](https://nph.onlinelibrary.wiley.com/toc/14698137/2025/248/1)) [https://doi.org/10.1111/nph.70296](https://doi.org/10.1111/nph.70296) (Media: [EurekAlert!](https://www.eurekalert.org/news-releases/1087365), [光明日报](https://news.gmw.cn/2025-06/14/content_38090073.htm), [中新网](https://www.chinanews.com.cn/gn/2025/06-13/10431768.shtml), [Phys.org](https://phys.org/news/2025-06-database-bridges-global-gaps-trait.html), [中国科学院](https://www.cas.cn/syky/202506/t20250613_5072972.shtml))
+<li> **Wang H-Y**, **Chen X**, **Chen S-C**\*. (2025) Chinese Seed Trait Database: A curated resource for seed traits in the Chinese flora. *New Phytologist* 248(1): 11–16 ([**Cover Story**](https://nph.onlinelibrary.wiley.com/toc/14698137/2025/248/1)) [https://doi.org/10.1111/nph.70296](https://doi.org/10.1111/nph.70296) (Media: [EurekAlert!](https://www.eurekalert.org/news-releases/1087365); [光明日报](https://news.gmw.cn/2025-06/14/content_38090073.htm); [中新网](https://www.chinanews.com.cn/gn/2025/06-13/10431768.shtml); [Phys.org](https://phys.org/news/2025-06-database-bridges-global-gaps-trait.html); [中国科学院](https://www.cas.cn/syky/202506/t20250613_5072972.shtml))
 </div>
 <div class = "col-md-2">
 <div data-doi="10.1111/nph.70296" data-hide-no-mentions="true" class="altmetric-embed"></div>
@@ -100,7 +132,7 @@ See also: [ResearchGate](https://www.researchgate.net/profile/Si-Chong-Chen) | [
 
 <div class = "row">
 <div class = "col-md-10">
-<li> **Chen S-C**\*, Antonelli A, **Huang X**, Wei N, Dai C & Wang Q\*. (2025) Large seeds as a defensive strategy against partial granivory in the Fagaceae. *Journal of Ecology* 113(3): 598–607. [https://doi.org/10.1111/1365-2745.14480](https://doi.org/10.1111/1365-2745.14480) (Media: [EurekAlert!](https://www.eurekalert.org/news-releases/1071421), [Journal of Ecology Blog](https://jecologyblog.com/2025/02/18/big-seeds-are-smarter-than-they-look/), [中国科学院](https://english.cas.cn/newsroom/research_news/life/202501/t20250122_899111.shtml), [湖北日报](https://news.hubeidaily.net/hbrbsharenew/news_detail/5/3653863/3306030/0?w=1739884983573%3Fuik%3DWXQ6wh4n&share_plat=wechat&sec=176f59d5&uik=8W6WKjLo&contentType=5))
+<li> **Chen S-C**\*, Antonelli A, **Huang X**, Wei N, Dai C & Wang Q\*. (2025) Large seeds as a defensive strategy against partial granivory in the Fagaceae. *Journal of Ecology* 113(3): 598–607. [https://doi.org/10.1111/1365-2745.14480](https://doi.org/10.1111/1365-2745.14480) (Media: [EurekAlert!](https://www.eurekalert.org/news-releases/1071421); [Journal of Ecology Blog](https://jecologyblog.com/2025/02/18/big-seeds-are-smarter-than-they-look/); [中国科学院](https://english.cas.cn/newsroom/research_news/life/202501/t20250122_899111.shtml); [湖北日报](https://news.hubeidaily.net/hbrbsharenew/news_detail/5/3653863/3306030/0?w=1739884983573%3Fuik%3DWXQ6wh4n&share_plat=wechat&sec=176f59d5&uik=8W6WKjLo&contentType=5))
 </div>
 <div class = "col-md-2">
 <div data-doi="10.1111/1365-2745.14480" data-hide-no-mentions="true" class="altmetric-embed"></div>
