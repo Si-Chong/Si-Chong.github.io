@@ -23,11 +23,31 @@ Seed predation and stoichiometry
 </div>
 
 <div class="col-md-4 text-center" style="margin-bottom:40px">
+<img src="Portrait/Xin-Yan Shen (Celina).jpg" width="220"><br><br>
+
+**Xin-Yan Shen (Celina) (沈欣言)**  
+PhD student (2026– )  
+TBC
+</div>
+
+<div class="col-md-4 text-center" style="margin-bottom:40px">
 <img src="Portrait/Ru-Yin Ye.jpg" width="220"><br><br>
 
 **Ru-Yin Ye (叶如茵)**  
 Undergraduate intern (2026– )  
 Seed traits
+</div>
+
+</div>
+
+
+<div class="row">
+
+<div class="col-md-4 text-center" style="margin-bottom:40px">
+<img src="Portrait/Jin-Yu Zhang.jpg" width="220"><br><br>
+
+**[Jin-Yu Zhang (张金羽)](https://www.researchgate.net/profile/Jinyu-Zhang-43)**  
+Postdoc (2026– )  
 </div>
 
 <div class="col-md-4 text-center" style="margin-bottom:40px">
@@ -51,6 +71,14 @@ Technical officer (2026– )
 **[Lu Zong (宗璐)](https://www.researchgate.net/profile/Lu-Zong-2)**  
 Postdoc (2023–2026)  
 Wind-mediated seed dispersal
+</div>
+
+<div class="col-md-4 text-center" style="margin-bottom:40px">
+<img src="Portrait/Yan-Yan Ni.jpg" width="220"><br><br>
+
+**Yan-Yan Ni (倪妍妍)**  
+Postdoc (2022–2023)  
+Fagaceae plant traits
 </div>
 
 </div>

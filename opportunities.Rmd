@@ -36,29 +36,36 @@ I am recruiting at [The University of Hong Kong](https://www.hku.hk/):<br>
 
 - Undergraduate interns  
 
-If you are interested in joining the lab, let's talk about your research interests, skills and plans.<br>
-
-Prospective students and postdocs are encouraged to read [our publications](publications.html) and [contact me](mailto:chensichong0528@gmail.com) before applying officially.
-
 </div>
 </div>
+
+<br>
+I would be happy to hear about your **research interests, skills and plans**.<br>
+
+Prospective postdocs and PhD/MPhil students are encouraged to read [our publications](publications.html) and [contact me](mailto:chensichong0528@gmail.com) before applying officially. Please briefly explain how your research experience and interests align with our work. **Generic enquiries without a clear connection to our research may not receive a response.**
 
 <hr>
 
 ## Who we are looking for
 
-- We welcome applicants with deverse backgrounds including ecology, statistics, computer science and related disciplines, who are motivated to pursue fundamental questions in ecology.
+- We welcome applicants from deverse backgrounds including ecology, statistics, computer science and related disciplines, who are motivated to pursue fundamental questions in ecology.
 
-- Applicants with backgrounds in species interactions, entomology, microbiome, or macroevolution are particularly encouraged to apply. Experience with field experiment design, artificial intelligence, large-scale data mining, database construction and integration are highly valued.
+- Backgrounds in species interactions, entomology, microbiome or macroevolution are particularly welcome. Skills in field experiments, artificial intelligence, large-scale data mining and database integration are highly valued.
 
-- Applicants are encouraged to develop their own research ideas aligned with the broader themes of the group.
+- We encourage applicants to **develop their own research ideas** that complement the broader themes of the group.
+
+- **Part-time research assistants:** Occasional positions may be available. Applicants must already have the legal right to work in Hong Kong, as visa sponsorship is not available for these positions.
 
 <hr>
 
-## Scholarships at HKU
+## Admissions & Scholarships at HKU
 
 - [PhD/MPhil admission](https://gradsch.hku.hk/prospective_students/application/how_to_apply)
 
 - [HKU Presidential PhD Scholar Programme](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hku_presidential_phd_scholar_programme)
 
 - [Hong Kong PhD Fellowship Scheme](https://gradsch.hku.hk/prospective_students/fees_scholarships_and_financial_support/hong_kong_phd_fellowship_scheme)
+
+Scholarships are competitive, with **major application deadlines typically in late November**. Applicants themselves should check the official websites for current deadlines and eligibility.
+
+**Self-funded PhD/MPhil applications may also be considered**, subject to HKU admission requirements. Funded MPhil opportunities are particularly limited.
