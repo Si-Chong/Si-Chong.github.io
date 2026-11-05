@@ -70,7 +70,7 @@ I work on the macroecological patterns in seed dispersal, seed predation, seed s
 
 <hr>
 
-#### Work Experience
+#### Academic Appointments
 
 * 2026.06 -- present: Associate Professor<br>
 [The University of Hong Kong](https://www.hku.hk/), China  
@@ -78,7 +78,7 @@ I work on the macroecological patterns in seed dispersal, seed predation, seed s
 * 2021.12 -- 2026.05: Research Professor & PI<br>
 [Wuhan Botanical Garden](http://www.wbg.cas.cn/), [Chinese Academy of Sciences](https://www.cas.cn/), China  
 
-* 2018.12 -- 2023.03: Future Leader Fellow<br>
+* 2018.12 -- 2023.02: Future Leader Fellow<br>
 [Royal Botanic Gardens Kew](http://www.kew.org/), UK  
                   
 * 2016.08 -- 2018.09: Postdoctoral Fellow<br>
@@ -86,17 +86,17 @@ I work on the macroecological patterns in seed dispersal, seed predation, seed s
 
 <hr>
 
-#### Education Experience
+#### Education
 
-* 2012.08 -- 2016.06: PhD in Ecology (Supervisor: Prof. Angela T. Moles)<br>
+* 2012.08 -- 2016.06: PhD in Ecology (Supervisor: [Prof. Angela T. Moles](https://scholar.google.com/citations?user=NbIoSJAAAAAJ&hl=en&oi=ao))<br>
 [University of New South Wales](https://www.unsw.edu.au/), Australia<br>
 Thesis: Macro-ecological patterns in seed removal by animals  
 
-* 2009.09 -- 2012.07: MSc in Ecology (Supervisor: Prof. Charles H. Cannon)<br>
+* 2009.09 -- 2012.07: MSc in Ecology (Supervisor: [Prof. Charles H. Cannon](https://scholar.google.com/citations?hl=en&user=5RNpwyMAAAAJ))<br>
 [Xishuangbanna Tropical Botanical Garden](https://www.xtbg.ac.cn/), [Chinese Academy of Sciences](https://www.cas.cn/), China<br>
 Thesis: The variation of genome size within and among the Fagaceae  
 
-* 2005.09 -- 2009.06: BSc in Science (Supervisor: Prof. Wen-Xin Li)<br>
+* 2005.09 -- 2009.06: BSc in Science (Supervisor: [Prof. Wen-Xin Li](https://baike.baidu.com/item/%E6%9D%8E%E6%96%87%E9%91%AB/6475523))<br>
 [Wuhan University](https://www.whu.edu.cn/), China<br>
 Thesis: Inhibitive effect of human foamy virus induced interleukin-24 in cancer cells  
 
@@ -106,7 +106,7 @@ Thesis: Examination of protein-protein interaction in human kidney
 
 <hr>
 
-#### Editorial Board
+#### Editorial Service
 
 * 2026 -- present: [*Ecography*](https://nsojournals.onlinelibrary.wiley.com/journal/16000587), Subject Editor<br>
 * 2025 -- present: [*Seed Science Research*](https://www.cambridge.org/core/journals/seed-science-research), Associate Editor<br>
@@ -117,4 +117,3 @@ Thesis: Examination of protein-protein interaction in human kidney
 * 2024 -- present: [*Chinese Journal of Plant Ecology 植物生态学报*](https://www.plant-ecology.com/), Editor<br>
 * 2022 -- present: [*Plant Science Journal 植物科学学报*](https://plantscience.cn/index.htm), Editor<br>
 * 2020 -- 2022: *Frontiers in Plant Science*, Special Issue "[Functional Seed Ecology](https://www.frontiersin.org/research-topics/17615/functional-seed-ecology-from-single-traits-to-plant-distribution-patterns-community-assembly-and-ecosystem-processes/magazine)", Guest Editor<br>
-

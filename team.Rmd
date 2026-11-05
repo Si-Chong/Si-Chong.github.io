@@ -47,7 +47,8 @@ Seed traits
 <img src="Portrait/Jin-Yu Zhang.jpg" width="220"><br><br>
 
 **[Jin-Yu Zhang (张金羽)](https://www.researchgate.net/profile/Jinyu-Zhang-43)**  
-Postdoc (2026– )  
+Postdoc (2026– )
+Biotic interactions
 </div>
 
 <div class="col-md-4 text-center" style="margin-bottom:40px">
@@ -128,7 +129,7 @@ Urban ecology and environment education
 
 **Lan Wu (吴澜)**  
 Master student (2024–2026)  
-Seed physical defences
+Seed physical defence
 </div>
 
 <div class="col-md-4 text-center" style="margin-bottom:40px">
@@ -157,7 +158,7 @@ Pollution impacts on plant regeneration
 
 **Fan-Yu Fu (付帆宇)**  
 Master student (2021–2024)  
-Seed defences
+Seed defence
 </div>
 
 <div class="col-md-4 text-center" style="margin-bottom:40px">
